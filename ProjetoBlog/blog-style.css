@@ -1,0 +1,66 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.contentDiv {
+
+	border: 1px solid green;
+	height: 80%;
+	width: 55%;
+	margin-left: 200px;
+	text-align: justify;
+	background-color: #F7F6F5;
+	padding: 18px;
+
+}
+
+.imagesBlog {
+
+	margin-left: auto;
+  	margin-right: auto;
+  	display: block;
+  	margin-top: 8px;
+  	border-radius: 7px;
+
+}
+
+.menu {
+
+	/*text-align: center;
+	height: 100px;*/
+	line-height: 60px;
+	word-spacing: 10px;
+}
+
+#header {
+	background-color: #995FA3;
+	text-align: center;
+	padding: 22px;
+}
+
+#logo {
+	
+}
+
+a:link, a:visited {
+ color: white;
+ text-decoration: none;
+ font-weight: bold;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+
+body {
+	font: 16px Arial, Helvica, sans-serif;
+	background-color: #EEECEB;
+}
+
+h1 {
+	color: white;
+	font-size: 2.5em;
+}
