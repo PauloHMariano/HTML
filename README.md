@@ -1,4 +1,3 @@
-Thank you for visiting my projects.
 
 This folder has projects from the beginning of my journey.
 
