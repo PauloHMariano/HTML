@@ -1,0 +1,105 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+#header {
+
+	background: #225992 url(imagens/cabecalho2.jpg) no-repeat center; 
+	text-align: center;
+	line-height: 200px;
+	min-width: 800px;
+	max-width: 1300px;
+
+}
+
+#container {
+
+	width: 85%;
+	margin: 0 auto;
+
+}
+
+#footer {
+
+	clear: both;
+	background-color: #D2F4EC;
+
+}
+
+#leftBar {
+
+	background-color: #52E7C4;
+	width: 30%;
+	float: left;
+}
+
+#rightBar {
+
+	background-color: #52E7C4;
+	width: 30%;
+	float: right;
+}
+
+#rightBar h2 {
+
+	margin: 0px;
+	padding: 10px 10px;
+	text-align: center;
+}
+
+#mainContent h2 {
+
+	margin: 0px;
+	padding: 10px 10px;
+	text-align: center;
+}
+
+#rightBar p {
+	padding: 0 10px;
+	margin-bottom: 10px;
+	text-align: justify;
+}
+
+#mainContent p {
+	padding: 0 10px;
+	margin-bottom: 10px;
+	text-align: justify;
+}
+
+#imagem {
+	width: 90%;
+	border: 1px solid red;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+
+#mainContent {
+
+	background-color: #52E7C4;
+	width: 37%;
+	float: left;
+	margin-left: 22px;
+}
+
+#leftBar ul{
+	
+	list-style-type: none;
+}
+
+#leftBar a{
+
+	text-decoration: none;
+	color: white;
+	padding: 0 7px;
+	line-height: 2em;
+	display: block;
+
+}
+
+#leftBar a:hover {
+	color: #ffcccc;
+	background-color: black;
+
+}
