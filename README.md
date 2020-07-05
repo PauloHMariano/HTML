@@ -1,4 +1,4 @@
-# HTML_First_Steps
+# HTML First Steps
 This folder has projects from the beginning of my journey.
 
 Alright, let's understand what project is about:
