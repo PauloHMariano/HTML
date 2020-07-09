@@ -7,7 +7,7 @@ Alright, let's understand what each project is about:
   2 - ProjetoBlog - My second website. More details were added to this one. <br/>
   3 - CSSIntermediarioAvancado - Just a bunch of code that I used for training. New details to use on CSS like overflow and max/min width. Working with liquid layouts, it's pretty much it. <br/>
   4 - TabelaEstilizada - A table with CSS details applied. <br/>
-  5 - FormStyle - A beatiful login page.
+  5 - FormStyle - A beautiful login page.
 
 I will update more projects during my development process!
 
