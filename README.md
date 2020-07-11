@@ -1,4 +1,4 @@
-#Web Development
+## Web Development
 This folder has projects from the beginning of my journey.
 
 Alright, let's understand what each project is about:
